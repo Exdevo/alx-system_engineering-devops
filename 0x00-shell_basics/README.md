@@ -1,1 +1,1 @@
-Deleting the directory my_firs_directory
+Deleting the directory my_first_directory
