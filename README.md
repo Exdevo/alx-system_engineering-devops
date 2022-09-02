@@ -1,1 +1,1 @@
-Navigating to previous directory
+ownership changed
